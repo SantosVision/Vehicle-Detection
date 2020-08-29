@@ -1,12 +1,12 @@
-#Vehicle detection
+## Vehicle detection
 
 By Anell Santos
 
 requierements:
 
-Python --version >= 3.6
-Pandas
-Numpy
+[Python] --version >= 3.6
+[Pandas]
+[Numpy]
 
 ---------------------------------------------------------------
 
