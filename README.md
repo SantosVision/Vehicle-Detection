@@ -4,11 +4,11 @@ By Anell Santos
 
 requierements:
 
-[Python] --version >= 3.6
+-[Python] --version >= 3.6
 
-[Pandas]
+-[Pandas]
 
-[Numpy]
+-[Numpy]
 
 ---------------------------------------------------------------
 
